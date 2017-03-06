@@ -1,0 +1,72 @@
+.container-login{
+	width:100%;
+	background-image: url("friendship-sms.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.row-login{
+	height:100vh;
+}
+
+.col-login{
+	margin-top:35vh;
+}
+
+h1,h2{
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.1;
+    color: inherit;
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+.btn.btn-login{
+	background-color: rgba(0, 0, 0, 0.75);
+    color: #fff;
+}
+
+.btn.round {
+    border-radius: 24px;
+}
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.text-center{
+	text-align: center;
+}
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+
+.footer {
+    text-align: center;
+    background-color: #666666;
+    padding: 20px;
+    border-top: #4aaaa5 solid 4px;
+    font-family: 'Bungee Inline';
+    font-size: 15px;
+    color: #fffff3;
+    height: 35px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 20px;
+    word-spacing: 15px;
+}
+
